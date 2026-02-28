@@ -13,7 +13,7 @@ export const content = [
     theme: 'The Earth',
     prose: "Before the color, there was the dark. In the coal mines of the Borinage, the light did not reach the faces of the men. It was here he learned the grammar of shadow.",
     body: "He walked into the earth to find God and found only soot. The gospel he carried was heavy, useless against the cold reality of the miners' lives. He gave away his clothes, his bed, his dignity, trying to become one with the suffering. The church rejected him for his excess of zeal. They did not understand that for him, there was no halfway. There was only the absolute.",
-    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Vincent_Willem_van_Gogh_084.jpg/800px-Vincent_Willem_van_Gogh_084.jpg", // The Potato Eaters (substitute or relevant work)
+    image: "/images/potato-eaters.jpg", // The Potato Eaters
     caption: "The Potato Eaters, 1885. The color of a dusty potato, unpeeled."
   },
   {
@@ -22,7 +22,7 @@ export const content = [
     theme: 'The Sun',
     prose: "The north was too quiet. He needed a sun that burned the eyes. In Arles, the world turned yellow, and the shadows turned blue.",
     body: "He rented a yellow house and dreamed of a brotherhood of artists. He worked with a feverish discipline, chasing the changing light of the seasons. The sunflowers were not just flowers; they were gratitude made visible. But the sun that ripened the wheat also scorched the mind. The dream of community shattered against the reality of his own intensity. Gauguin left. The ear was cut. The silence returned.",
-    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Vincent_Willem_van_Gogh_127.jpg/800px-Vincent_Willem_van_Gogh_127.jpg", // Sunflowers
+    image: "/images/sunflowers.jpg", // Sunflowers
     caption: "Sunflowers, 1888. Not a decoration, but a cry."
   },
   {
@@ -31,7 +31,7 @@ export const content = [
     theme: 'The Night',
     prose: "The walls of the asylum were high, but the sky was higher. Locked away from the world, he looked up and saw the universe moving.",
     body: "In the silence of Saint-Rémy, the cypress trees became flames. The stars began to swirl, not as static points of light, but as great, churning rivers of energy. He painted the view from his barred window again and again, finding freedom in the restriction. The madness was a storm that came and went, but in the calm between, his vision was terrifyingly clear.",
-    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg/1024px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg", // Starry Night
+    image: "/images/starry-night.jpg", // Starry Night
     caption: "The Starry Night, 1889. The village sleeps, but the sky is awake."
   },
   {
@@ -40,7 +40,7 @@ export const content = [
     theme: 'The End',
     prose: "The wheat fields stretched to the horizon, vast and indifferent. The crows gathered, waiting.",
     body: "He painted the roots of trees, twisted and holding on. He painted the vast fields under troubled skies. The work was done. The burden of seeing so much, so clearly, was finally too great. A shot in the chest. A pipe smoked in bed. A brother holding his hand. He went as he lived: quietly, amidst the color.",
-    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Vincent_van_Gogh_-_Wheatfield_with_crows_-_Google_Art_Project.jpg/1024px-Vincent_van_Gogh_-_Wheatfield_with_crows_-_Google_Art_Project.jpg", // Wheatfield with Crows
+    image: "/images/wheatfield.jpg", // Wheatfield with Crows
     caption: "Wheatfield with Crows, 1890. The sadness will last forever."
   },
   {
